@@ -3,7 +3,7 @@
 
 # Instructions
 
- 1. Start a new game with `/feud`. Optionally specify how many questions the game should have, otherwise it's random.
+ 1. Start a new game with `/feud`. Optionally specify how many answers the game should have, otherwise it's random.
  
  2. Try guessing the answers with `/guess <string>`. Use single word guesses for best chances at matching with a correct answer.
  
